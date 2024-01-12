@@ -10,7 +10,7 @@ This page demonstrates using React component - MaterialReactTable: an advanced t
 - You also need to install MUI and Emotion - rich style components associated with the table
 - "MaterialReactTable" has great configuration possibilities. The configuration is contained in the config_table.js file;
 - Npm instaled local libraries: react v18.2, react-dom v18.2, react-scripts v5.0 with babel-loader v8.3;
-- Project written in Visual Studio Code;
+- Project written in Visual Studio Code.
 
 .
 ![](jpg/Table_Basic_Format_4d.png)
