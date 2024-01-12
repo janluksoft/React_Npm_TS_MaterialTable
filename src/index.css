@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: 'Arial', 'Segoe UI', 'Roboto', 'Oxygen', sans-serif;
+  font-size: 11pt;
+  padding: 12px;
+  background-color: #f3f3f3;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,h2,h3 {
+  margin: 2px;
+  padding: 2px;
+}
+
+.cReact_panel {
+  box-shadow: 2px 4px 6px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+}
+
+.Top_panel {
+  font-size:16pt; 
+  padding: 6px;                 padding-left: 16px; 
+  margin-right: 120px; 
+  background-color: #d9d9d9;  border-radius: 4px;
+  box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 0.3);
+}
